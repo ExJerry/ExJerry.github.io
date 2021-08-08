@@ -2,7 +2,7 @@
 layout:     post
 title:     洛谷P1433
 category: blog
-description: 
+description: 上传成功！
 ---
 # 这道题可以用搜索，但必须要剪枝 + 卡时
 ```cpp
